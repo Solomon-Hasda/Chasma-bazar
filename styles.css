@@ -144,3 +144,59 @@ nav ul a {
     font-weight: 700;
     letter-spacing: 0.252px;
 }
+
+/* features style */
+.features{
+    padding: 3.12rem 10.6rem;
+    padding: 3.12rem 10.6rem;
+    margin: 0 auto;
+    margin-bottom:3.12rem;
+}
+.features-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.feature-title{
+    color: #0A0826;
+    font-size: 28px;
+    font-weight: 700; 
+    margin-bottom: 1rem;
+}
+.feature-description{
+    color: #6C6C6C;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+
+}
+
+/* footer */
+footer{
+    background: #0A0826;
+    height:15.6rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    text-align: center;
+}
+.footer-title{
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400; 
+    margin: 3px;
+}
+.footer-description{
+    font-size: 14px;
+    font-weight: 400;
+    margin:0.5rem;
+}
+footer i{
+    margin-top: 1.5rem;
+    font-size: 1.8rem;
+    margin-right: 1.2rem;
+}
